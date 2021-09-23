@@ -17,4 +17,19 @@
 
 ## agregar a staging area y crear punto de restauración en un sólo comando
     git commit -a -m 'mensaje'
- 
+
+> otro modo de hacer un add y un commit juntos es:   
+    git commit -am 'mensaje'  
+
+## ver listado completo de commits con su autor <email>, descripcion, timestamp
+    git log  
+
+> se puede ver un logo corto, de un sóla línea con
+    git log --oneline
+
+## moverse hace cualquier commit
+    git checkout nHASH  
+
+## otro modo de volver al último commit
+    git checkout master  
+
