@@ -15,6 +15,9 @@
 ## crear punto de restauración
     git commit -m 'mensaje'
 
+## crear punto de restauración don mensaje corto (título) y mensaje largo (descripción)
+    git commit -m 'mensaje corto' -m 'mensaje largo, descripción'
+
 ## agregar a staging area y crear punto de restauración en un sólo comando
     git commit -a -m 'mensaje'
 
