@@ -35,4 +35,3 @@
 
 ## otro modo de volver al último commit
     git checkout master  
-
