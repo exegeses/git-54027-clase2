@@ -13,3 +13,7 @@
     git push
 
 > Mi rama local debe estar más adelante que la rama remota
+> Si esto no sucede, primero hacer un pull  
+    git pull  
+> y después un push
+
